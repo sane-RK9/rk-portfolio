@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 
-// Update this array to reflect your current training activities
+// Update this array to current training activities
 const dataStream = [
   { type: "READING", label: "Designing Data-Intensive Apps" },
   { type: "BUILDING", label: "Agentic Workflows" },

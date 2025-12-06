@@ -7,7 +7,7 @@ const sora = Sora({ subsets: ["latin"], variable: "--font-sora" });
 const jetbrains = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains" });
 
 export const metadata: Metadata = {
-  title: "RK | AI Engineer & Systems Architect",
+  title: "Rishabh | AI Systems Architect",
   description: "Building local-first intelligent systems and agentic AI workflows.",
 };
 
